@@ -27,7 +27,7 @@ IMPORTANT
 - The API is free up to 60 calls per minute
 
 
-Version 0.1 (3rd October 2021)
+Version 0.1 (9th October 2021)
 - Initial version
 
 
