@@ -27,6 +27,14 @@ IMPORTANT
 - The API is free up to 60 calls per minute
 
 
+Version 1.1 (10th November 2022)
+- Added extra check for partly empty response ("coord" not empty but "list" is empty)
+- Added extra message to the labels and de log text if there is no response
+- Warning added in case the "forecast measurements" are not available
+
+Version 1.0 (7th November 2021)
+- Added forecast measurements with hours you want your forecast. The forecast is shown in child devices and labels for all measurements. 
+
 Version 0.1 (9th October 2021)
 - Initial version
 
